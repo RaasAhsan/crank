@@ -1,4 +1,5 @@
 use wasm_bindgen::prelude::*;
+use parcel::and_then;
 
 #[wasm_bindgen]
 extern {
